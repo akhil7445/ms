@@ -1,6 +1,8 @@
 [General]
 Display Name=<DisplayName>
 Description=<Description>
+Display Name=<akhil>
+Description=<testing>
 GUID={A9CECA24-9F31-11d2-912E-006094EB630B}
 Path="fxsext32.dll"
 Entry Point=1
