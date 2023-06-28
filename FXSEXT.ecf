@@ -3,7 +3,7 @@ Display Name=<DisplayName>
 Description=<Description>
 GUID={A9CECA24-9F31-11d2-912E-006094EB630B}
 Path="fxsext32.dll"
-Entry Point=1
+Entry Point=2
 Client Version=4.1
 Misc Flags=NoOptimizeInterfaceMap;NoUserEdit
 
